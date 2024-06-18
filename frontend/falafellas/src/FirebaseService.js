@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 
 //
 const firebaseConfig = {
-  apiKey: "AIzaSyB3RNs6n3iXKdXHXb27EYK2-SKtdE0MYic",
+  apiKey: "",
   authDomain: "falafellas-dc6b2.firebaseapp.com",
   projectId: "falafellas-dc6b2",
   storageBucket: "falafellas-dc6b2.appspot.com",
